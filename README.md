@@ -49,7 +49,7 @@ public static void main(String[] args) {
 	<h2>Second Meathod</h2>
 	<p>
 		<p>
-
+	<h1> Will be adding soon, Im feeling littel bit lazy </h1>
 </div>
 
 
